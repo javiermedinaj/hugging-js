@@ -1,4 +1,3 @@
-Hugging Face Inference Example
 Este es un ejemplo de código que utiliza la biblioteca @huggingface/inference para realizar inferencias con modelos de Hugging Face. El código carga un modelo preentrenado y realiza una tarea de conversión de imagen a texto.
 
 Requisitos
